@@ -1,4 +1,4 @@
-# Pytorch_Neural_Networks
+# Introduction_to_Pytorch
 
 This is my implementation of Fully-Connected Neural Network using Pytorch package as part of an exercise 4 in Machine Learning course at Bar Ilan University.
 
